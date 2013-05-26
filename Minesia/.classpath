@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/jstephano/Downloads/bukkit-1.5.2-R0.2-20130503.224119-1.jar"/>
+	<classpathentry kind="lib" path="libs/TabAPI.jar"/>
+	<classpathentry kind="lib" path="libs/TagAPI.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

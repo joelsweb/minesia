@@ -1,0 +1,35 @@
+name: Minesia
+main: com.jayserp.minesia.Minesia
+version: 0.1
+
+commands:
+   lp:
+      description: Lists all players on server.
+      usage: /<command>
+      permission: minesia.admin
+      permission-message: You don't have <permission>
+   js:
+      description: Test command.
+      usage: /<command>
+      permission: minesia.admin
+      permission-message: You don't have <permission>
+   class:
+      description: Choose a class (priest, ninja, medic).
+      usage: /<command>
+      permission: minesia.basic
+      permission-message: You don't have <permission>
+   leave:
+      description: Allows the player to leave the game.
+      usage: /<command>
+      permission: minesia.basic
+      permission-message: You don't have <permission>
+   start:
+      description: Allows the player to start the game.
+      usage: /<command>
+      permission: minesia.admin
+      permission-message: You don't have <permission>
+   reset:
+      description: Allows the player to reset the game.
+      usage: /<command>
+      permission: minesia.admin
+      permission-message: You don't have <permission>
